@@ -12,6 +12,7 @@ Sarsat-GUI est une application qui regroupe plusieurs méthodes de décodage SAR
 ### Fonctionnalités
 - Les trames SARSAT décodées peuvent être automatiquement envoyées par e-mail après configuration dans `config_mail.txt`.
 - Les e-mails transmettent désormais **la totalité de la trame décodée**.
+- "Ajout d'une version sans interface graphique (nogui.py) intégrant un watchdog avec relance automatique alerte par e-mail en cas de détection d'anomalie."
 - Ce projet est en cours de développement. Certaines fonctions n'ont pas encore été testées et pourraient ne pas fonctionner correctement.
 
 ---
