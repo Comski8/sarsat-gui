@@ -36,9 +36,12 @@ Sarsat-GUI est une application qui regroupe plusieurs méthodes de décodage SAR
 
 ## Utilisation
 
-1. Executer : 
+1. Executez :
    ```bash
    python3 gui.py
+2. Ou la version nogui avec watchdog :
+   ```bash
+   python3 nogui.py
 
 ---
 
