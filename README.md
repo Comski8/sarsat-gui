@@ -53,8 +53,7 @@ Sarsat-GUI est une application qui regroupe plusieurs méthodes de décodage SAR
 
 ## Remerciements
 
-Ce projet s'appuie sur le travail de [F4EHY](http://jgsenlis.free.fr), dont le décodeur SARSAT constitue la base. Et ChatGPT, parceque je suis pas doué.. mais j'ai l'envie :sweat_smile:
-
+Ce projet s'appuie sur le travail de [F4EHY](http://jgsenlis.free.fr), dont le décodeur SARSAT constitue la base.
 
 
 
